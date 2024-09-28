@@ -28,13 +28,10 @@ twitter_username:
 github_username:  zhoujing99
 
 # Build settings
-# theme: minima
+theme: minima
 # plugins:
 #   - jekyll-feed
 
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

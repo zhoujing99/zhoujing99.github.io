@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Jing Zhou - Professional Profile
+title: 
 description: "Welcome to Jing Zhou's personal website. Explore my academic journey, research, publications, and professional experiences."
 ---
 
 <!-- Hero Section -->
 <div align="center">
-  <img src="student_zhou_jing.jpg" alt="Jing Zhou" style="border-radius: 50%; width: 200px; height: 200px;">
+<img src="student_zhou_jing.jpg" alt="Jing Zhou" style="border-radius: 50%; width: 200px;">
   <h1>Jing Zhou</h1>
   <p>Ph.D. in Urban and Regional Planning & Environmental Science and Policy</p>
   <p>
-    <a href="cv/" class="button">View CV</a>
-    <a href="publications/" class="button">Publications</a>
-    <a href="contact/" class="button">Contact</a>
+    <a href="CV2024.pdf" class="button">CV</a>
+    <!-- <a href="publications/" class="button">Publications</a>
+    <a href="contact/" class="button">Contact</a> -->
   </p>
 </div>
 
@@ -117,8 +117,6 @@ I am a dedicated researcher and educator with a dual Ph.D. in Urban and Regional
 
 <!-- Contact Section -->
 ## Contact
-
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
 
 - **Phone:** 517-974-1429
 - **Email:** [zhouji10@msu.edu](mailto:zhouji10@msu.edu)
