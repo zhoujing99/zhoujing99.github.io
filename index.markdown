@@ -29,8 +29,8 @@ Our team of experienced trainers is dedicated to helping you reach your fitness 
 <div style="align-items: center; margin-bottom: 20px;">
   <img src="student_zhou_jing.jpg" alt="Trainers1" style="width:200px; height:250px; object-fit:cover; margin-right: 20px;">
   <div>
-    <h3>Personal Trainer: Zhou Jing</h3>
-    <p>Zhou Jing is a personal trainer with over 10 years of experience in the fitness industry. Specializing in strength training and nutrition, Zhou is dedicated to helping clients achieve their fitness goals through personalized workout plans and dietary guidance.</p>
+    <h3>Personal Trainer: Jing Zhou</h3>
+    <p>Jing Zhou is a personal trainer with over 10 years of experience in the fitness industry. Specializing in strength training and nutrition, Zhou is dedicated to helping clients achieve their fitness goals through personalized workout plans and dietary guidance.</p>
   </div>
 </div>
 
